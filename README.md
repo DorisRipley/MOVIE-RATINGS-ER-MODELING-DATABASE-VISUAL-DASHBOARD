@@ -13,6 +13,9 @@ The client has provided three datasets located in flat CSV files, which are as f
 **tagged.csv:** Contains free-text movie-tagging activities.
 **genome-scores.csv:** Contains data related to how strongly movies exhibit particular properties as represented by tag relevance scores.
 
+**Note on Dataset Upload**
+Given the extensive size of the datasets, they will not be uploaded to the repository. 
+
 ## Schema Design
 
 The designed schema consists of several tables as follows:
