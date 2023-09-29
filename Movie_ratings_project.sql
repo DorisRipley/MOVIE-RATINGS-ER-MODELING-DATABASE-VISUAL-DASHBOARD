@@ -1,4 +1,4 @@
--- This script creates a users table in the G11 schema with the userId as the primary key
+-- This script creates a users table in the Movie_ratings schema with the userId as the primary key
 --  and various other fields to store user information such as birthdate, gender, zip code,
 -- and occupation. The NOT NULL constraint on userId ensures that this field must contain a
 -- value, while other fields can be left empty (NULL).
