@@ -32,4 +32,18 @@ Detailed SQL DDL statements to create these tables and establish constraints are
 ## Deliverables
 
 **Part 1:** A Word file containing the image of the designed ER model, developed using a diagramming tool such as Lucidchart or draw.io.
+
 **Part 2:** A .sql script file containing DDL and DML SQL statements used to create the tables and insert data into them.
+
+## Data Cleaning Challenges
+Working with the given dataset was like untangling a ball of yarn! Here's what we faced:
+
+**Mixed Data Types:** Imagine expecting a column of numbers and finding words mixed in. That's what happened with our data. We had to go in and make sure each column had just one type of data.
+
+**Unexpected Characters:** In some columns, where we expected years (like '1995' or '2005'), we found weird characters. We had to carefully look through and fix these.
+
+**Repeating Data: ** Some rows in our data were like echoes – they just repeated what was already there. We had to identify these duplicates and remove them to keep our data neat and tidy.
+
+**Database Drama:** When we tried to move our cleaned-up data into a MySQL database, we ran into some technical hiccups. It's like trying to fit a square peg in a round hole! We had to break our data into smaller pieces and then insert them bit by bit.
+
+In simple words, cleaning this data was a journey, but step by step, we made it neat and ready to use!
