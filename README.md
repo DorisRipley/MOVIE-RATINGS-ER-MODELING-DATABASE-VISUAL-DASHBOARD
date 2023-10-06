@@ -42,7 +42,7 @@ Working with the given dataset was like untangling a ball of yarn! Here's what w
 
 **Unexpected Characters:** In some columns, where we expected years (like '1995' or '2005'), we found weird characters. We had to carefully look through and fix these.
 
-**Repeating Data: ** Some rows in our data were like echoes – they just repeated what was already there. We had to identify these duplicates and remove them to keep our data neat and tidy.
+**Repeating Data:** Some rows in our data were like echoes – they just repeated what was already there. We had to identify these duplicates and remove them to keep our data neat and tidy.
 
 **Database Drama:** When we tried to move our cleaned-up data into a MySQL database, we ran into some technical hiccups. It's like trying to fit a square peg in a round hole! We had to break our data into smaller pieces and then insert them bit by bit.
 
