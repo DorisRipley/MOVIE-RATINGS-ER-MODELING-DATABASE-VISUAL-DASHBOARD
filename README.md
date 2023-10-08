@@ -1,10 +1,15 @@
 # Movie_Ratings
 
 ## Project Overview
-This project involves designing an Entity-Relationship (ER) model and developing a MySQL database to store and analyze a dataset related to movie ratings, tagging activities, and genome scores. The project is divided into two main parts:
+This project involves designing an Entity-Relationship (ER) model, developing a MySQL database, and visualizing insights through a Tableau dashboard, all centered around a dataset related to movie ratings, tagging activities, and genome scores. The project is divided into three main parts:
 
-**Part 1:** Developing a physical ER model of the dataset, focusing on correct database design and normalization principles.
-**Part 2:** Using the provided ER model to create tables, set up constraints within a normalized relational database, and populate the database with the provided dataset.
+**Part 1:** Developing a physical ER model of the dataset, emphasizing correct database design and normalization principles.
+
+**Part 2:** Using the provided ER model to create tables, establish constraints within a normalized relational database, and populate the database with the provided dataset.
+
+**Part 3:** Designing and developing a comprehensive dashboard in Tableau to visualize and analyze movie ratings, user engagement, and trends derived from the database, ensuring that the insights are intuitive, actionable, and visually engaging.
+
+**Dashboard link** (https://public.tableau.com/app/profile/doris.pernia.rpley/viz/MovieRatingsDashboard_16968030523170/MovieRatingsDashboard)
 
 ## Dataset
 The client has provided three datasets located in flat CSV files, which are as follows:
