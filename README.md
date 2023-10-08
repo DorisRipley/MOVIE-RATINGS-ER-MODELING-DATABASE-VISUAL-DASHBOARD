@@ -36,9 +36,11 @@ Detailed SQL DDL statements to create these tables and establish constraints are
 
 ## Deliverables
 
-**Part 1:** A Word file containing the image of the designed ER model, developed using a diagramming tool such as Lucidchart or draw.io.
+**Part 1:** A pdf file containing the image of the designed ER model, developed using a diagramming tool such as Lucidchart or draw.io.
 
 **Part 2:** A .sql script file containing DDL and DML SQL statements used to create the tables and insert data into them.
+
+**Part 3:** A Tableau dashboard providing visual insights from the populated database, focusing on movie ratings, user activity, and genre trends.
 
 ## Data Cleaning Challenges
 Working with the given dataset was like untangling a ball of yarn! Here's what we faced:
